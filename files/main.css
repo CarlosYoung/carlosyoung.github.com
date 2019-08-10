@@ -1,0 +1,35 @@
+.main-header{
+    background-color: darkgrey;
+    color: black;
+    text-align: center;
+    height: 100px;
+}
+.h3{
+    padding: 10px;
+    display: inline-block;
+    font-size: 30px;
+    margin-left: 70px;
+}
+.des-main{
+    background-color: #E8AB5A;
+    margin-top: 0px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+}
+.edu-main{
+    margin-top: 80px;
+    margin-left: 300px;
+}
+.title-main{
+    font-size: 35px;
+}
+.title-sec{
+    font-size: 25px;
+    margin: 0px;
+    margin-top: 20px;
+}
+.desc-main{
+   margin: 0px;
+   margin-top: 5px;
+}
